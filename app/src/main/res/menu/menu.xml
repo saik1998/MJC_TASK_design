@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_timesheet"
+        android:icon="@drawable/time_sheet"
+        android:title="@string/timesheet" />
+
+    <item
+        android:id="@+id/navigation_from"
+        android:icon="@drawable/form_1"
+        android:title="@string/form" />
+
+    <item
+        android:id="@+id/navigation_add"
+        android:icon="@drawable/hierarchy_1"
+        android:title="@string/hierarchy" />
+
+    <item
+        android:id="@+id/navigation_hierachy"
+        android:icon="@drawable/m_ore"
+        android:title="@string/more" />
+
+
+
+</menu>
